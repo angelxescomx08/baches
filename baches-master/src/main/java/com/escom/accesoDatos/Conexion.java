@@ -38,7 +38,7 @@ public class Conexion {
 
     private void obtenerConexion() {
         String usr = "root";
-        String pwd = "Ang0445531049458";
+        String pwd = "root";
         String driver = "com.mysql.cj.jdbc.Driver";
         String url = "jdbc:mysql://localhost:3306/baches?serverTimezone=America/Mexico_City&useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&useSSL=false";
         try {
